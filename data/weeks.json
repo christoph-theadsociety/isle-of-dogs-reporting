@@ -236,5 +236,22 @@
     "purchases": 1,
     "cost_per_purchase": 507.59,
     "conversion_rate": 0.209
+  },
+  {
+    "week": "KW37",
+    "iso_year": 2026,
+    "date_start": "2026-09-07",
+    "date_stop": "2026-09-13",
+    "spend": 500.26,
+    "link_clicks": 487,
+    "cpc": 1.027,
+    "ctr": 2.629,
+    "impressions": 18525,
+    "cpm": 27.0,
+    "revenue": 0.0,
+    "roas": 0.0,
+    "purchases": 0,
+    "cost_per_purchase": 0.0,
+    "conversion_rate": 0.0
   }
 ]
