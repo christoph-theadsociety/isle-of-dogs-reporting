@@ -253,5 +253,22 @@
     "purchases": 0,
     "cost_per_purchase": 0.0,
     "conversion_rate": 0.0
+  },
+  {
+    "week": "KW38",
+    "iso_year": 2026,
+    "date_start": "2026-09-14",
+    "date_stop": "2026-09-20",
+    "spend": 474.62,
+    "link_clicks": 400,
+    "cpc": 1.187,
+    "ctr": 2.753,
+    "impressions": 14528,
+    "cpm": 32.67,
+    "revenue": 3.78,
+    "roas": 0.008,
+    "purchases": 0,
+    "cost_per_purchase": 0.0,
+    "conversion_rate": 0.0
   }
 ]
